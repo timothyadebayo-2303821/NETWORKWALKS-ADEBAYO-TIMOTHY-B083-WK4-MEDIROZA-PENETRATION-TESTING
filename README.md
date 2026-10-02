@@ -317,7 +317,7 @@ The complete, formally structured penetration testing report — including CVSS-
 **Adebayo Timothy**
 Cyber Security Analyst / Consultant
 
-LinkedIn: *[https://lnkd.in/p/eTRVjGsP]*
+LinkedIn: *[[https://lnkd.in/p/eTRVjGsP](https://lnkd.in/p/ddadN7Bh)]*
 
 ---
 
